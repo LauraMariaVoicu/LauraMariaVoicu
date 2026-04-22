@@ -1,3 +1,18 @@
 **ABOUT ME**👋 
-Hi, I’m @LauraMariaVoicu. Since the beginning of 2023 I have been studying and practicing to become a QA. I am happy to have finally found an area in which I can successfully develop myself. In the QA position I see the potential to make, at the very least, the digital world more welcoming for every person. In this portfolio, I would like to share my knowledge of QA and showcase my practical skills that I have gained through courses and self-study. I am determined to continue to grow in this field. I have also started learning test automation in, so at the moment my main focus is on furthering my knowledge (and practice!) in this area.
+Hi, I’m @LauraMariaVoicu. 
+QA Tester with training in manual and automation testing (Cypress).
+
+🔍 Skills:
+- Manual Testing (Test Cases, Bug Reports)
+- Automation Testing (Cypress)
+- Exploratory Testing
+- Basic JavaScript
+
+📁 Projects:
+- Automated tests using Cypress
+- Test cases for web applications
+- Bug reports created in Jira format
+
+🎯 Goal:
+To start a career in QA and continuously improve my testing and automation skills.
 
